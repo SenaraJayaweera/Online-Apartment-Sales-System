@@ -14,3 +14,8 @@ The Online Apartment Sales System is a web-based application designed to simplif
 - Frontend: HTML, CSS, JavaScript
 - Backend: PHP
 - Database: MySQL
+
+# Installation
+1. Clone the repository: https://github.com/SenaraJayaweera/Online-Apartment-Sales-System.git
+2. Navigate to the project directory: cd Online-Apartment-Sales-System
+3. Import the SQL file into your MySQL database.
